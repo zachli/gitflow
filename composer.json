@@ -1,0 +1,11 @@
+{
+	"name" : "zachli/gitflow",
+	"authors" : [{
+			"name" : "zachli",
+			"email" : "lizai@outlook.com"
+		}
+	],
+	"require": {
+		"symfony/http-foundation": "^3.3"
+	}
+}
